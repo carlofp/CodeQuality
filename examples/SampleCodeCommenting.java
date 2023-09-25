@@ -6,7 +6,7 @@ public class SampleCodeCommenting {
     /**
     * An integer to keep track of for fun.
     */
-    private int count; 
+    private int count=0; 
     ... 
     /**
     * Increment a value by delta and return the new value. 
